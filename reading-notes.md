@@ -8,18 +8,19 @@ Welcome to your first reading notes file! Reading notes are important because th
 
 1. **What is HTML in your own words**?
 - HTML means HyperText Markup Language 
--It is the code that is used to structure a web page and its content
+
+- It is the code that is used to structure a web page and its content
 
 2. **How do we start and HTML document**?
-- DOCTYPE html <!DOCTYPE html>
+- DOCTYPE html
 
 3. **List 5 formatting elements in HTML and thier uses**
-- head tag <head></head>(its where you add the title of the webpage)
-- body tag <body></body>(its where you add the content of the html)
-- header tag <header></header>(where you add nav tabs)
-- p or paragraph tag <p></p>(where you write text)
-- Heading tag <h1></h1>(they are basically tiltes of sections of a page goes from h1 to h6)
- footer tag <footer></footer> (where you add the copyright and contact info)
+- head tag (its where you add the title of the webpage)
+- body tag (its where you add the content of the html)
+- header tag (where you add nav tabs)
+- p or paragraph tag (where you write text)
+- Heading tag (they are basically tiltes of sections of a page goes from h1 to h6)
+ footer tag (where you add the copyright and contact info)
 
 4. **Why do use HTML in your own words**?
 - We use HTML to structure a web page and add content to it
