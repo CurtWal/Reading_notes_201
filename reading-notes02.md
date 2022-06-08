@@ -33,7 +33,7 @@ Javascript:
 1. **What are conditionals in your own words?**
 - A series of decisons we tell the computer to make based on what is true and what is false
 2. **How do you write a conditional in Javascript?**
-- 
+- if (statement < expression){do this} else{do this}
 3. **What are 3 examples of comparision operators?**
 - >
 - <
