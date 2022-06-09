@@ -31,7 +31,7 @@
 1. **What is a function in Javascript?**
 - a function is a block of code that can be executed as many times as the user wants
 2. **What are parameters in a Javascript function?**
-- parameters are the names listed in the function definition
+- parameters are a named variable passed into a function
 3. **What does the return keyword do in a JS function?**
 - It specifies the value returned by the function
 4. **What is an array in Javascript?**
