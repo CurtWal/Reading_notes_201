@@ -22,7 +22,8 @@ CSS:
 - Padding
 - Content
 3. **What are 2 types of ways to display an element in CSS?**
-
+-Block
+-Inline 
 4. **What is the difference between inline elements and block elements?**
 - A inline element always take their width and height from the contents. They are also allow to be place next to each other
 - A blocked element will not allow elements on the same “line” as their own. It also has a specified width and height, optionally controlled by its content
